@@ -6,5 +6,5 @@
 
 ### WeChat Account（微信公众号）
 <div align="center">
-    <img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/RapidAI_poster.png" width="80%" height="80%">
+    <img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/RapidAI_poster_compose.png" width="80%" height="80%">
 </div>
