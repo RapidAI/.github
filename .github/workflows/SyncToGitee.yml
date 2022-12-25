@@ -21,4 +21,4 @@ jobs:
           force_update: true
           account_type: org
 #           static_list: "YOLO2COCO"   					
-#           debug: true
+          debug: true
