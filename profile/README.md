@@ -1,4 +1,4 @@
-## RapidAI-NG
+## RapidAI
 
 🚩 **Slogan**: An open source organization that applies AI models to development, dedicated to building a bridge between AI models from academia to engineering and solving the last mile of AI model applications.
 
