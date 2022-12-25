@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 14 * * *'  # 每天22点运行 14 + 8
 
 jobs:
   repo-sync:
@@ -11,14 +13,18 @@ jobs:
       - name: Checkout source codes
         uses: actions/checkout@v3
 
+      - name: Get repository list exclude private and fork
+        id: repo
+        uses: yi-Xu-0100/repo-list-generator@v1.0.1
+
       - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
-          src: 'github/RapidAI'    						
-          dst: 'gitee/RapidAI'     						
+          src: 'github/RapidAI'
+          dst: 'gitee/RapidAI'
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          dst_token:  ${{ secrets.GITEE_TOKEN }}   
+          dst_token:  ${{ secrets.GITEE_TOKEN }}
           force_update: true
           account_type: org
-#           static_list: "YOLO2COCO"   					
           debug: true
+          static_list: ${{ steps.repo.outputs.repoList }}  # 仅同步非private，非fork的仓库
