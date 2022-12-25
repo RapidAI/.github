@@ -28,3 +28,4 @@ jobs:
           account_type: org
           debug: true
           static_list: ${{ steps.repo.outputs.repoList }}  # 仅同步非private，非fork的仓库
+          black_list: ".github,rapidai.github.io "
