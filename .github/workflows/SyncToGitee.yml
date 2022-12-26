@@ -18,7 +18,7 @@ jobs:
 
       - name: Get repository list exclude private and fork
         id: repo
-        uses: yi-Xu-0100/repo-list-generator@v1.0.1
+        uses: yi-Xu-0100/repo-list-generator@v1.1.0
 
       - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
