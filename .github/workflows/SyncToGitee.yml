@@ -18,29 +18,29 @@ jobs:
 
       - name: Get repository list exclude private and fork
         id: repo
-        uses: yi-Xu-0100/repo-list-generator@v1.1.0
+        uses: yi-Xu-0100/repo-list-generator@v1.1.1
 
-      - name: Echo Output
-        run: |
-          echo repo: ${{steps.repo.outputs.repo}}
-          echo repoList: ${{steps.repo.outputs.repoList}}
-          echo repoList_ALL: ${{steps.repo.outputs.repoList_ALL}}
-          echo repoList_PRIVATE: ${{steps.repo.outputs.repoList_PRIVATE}}
-          echo repoList_FORK: ${{steps.repo.outputs.repoList_FORK}}
-          echo privateList: ${{steps.repo.outputs.privateList}}
-          echo forkList: ${{steps.repo.outputs.forkList}}
-          echo emptyList: ${{steps.repo.outputs.emptyList}}
-          echo archivedList: ${{steps.repo.outputs.emptyList}}
+      # - name: Echo Output
+      #   run: |
+      #     echo repo: ${{steps.repo.outputs.repo}}
+      #     echo repoList: ${{steps.repo.outputs.repoList}}
+      #     echo repoList_ALL: ${{steps.repo.outputs.repoList_ALL}}
+      #     echo repoList_PRIVATE: ${{steps.repo.outputs.repoList_PRIVATE}}
+      #     echo repoList_FORK: ${{steps.repo.outputs.repoList_FORK}}
+      #     echo privateList: ${{steps.repo.outputs.privateList}}
+      #     echo forkList: ${{steps.repo.outputs.forkList}}
+      #     echo emptyList: ${{steps.repo.outputs.emptyList}}
+      #     echo archivedList: ${{steps.repo.outputs.emptyList}}
 
-      # - name: Mirror the Github organization repos to Gitee.
-      #   uses: Yikun/hub-mirror-action@master
-      #   with:
-      #     src: 'github/RapidAI'
-      #     dst: 'gitee/RapidAI'
-      #     dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-      #     dst_token:  ${{ secrets.GITEE_TOKEN }}
-      #     force_update: true
-      #     account_type: org
-      #     debug: true
-      #     static_list: ${{ steps.repo.outputs.repoList }}  # 仅同步非private，非fork的仓库
-      #     black_list: ".github,rapidai.github.io,RapidOCR,YOLO2COCO"  # RapidOCR和YOLO自有同步
+      - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: 'github/RapidAI'
+          dst: 'gitee/RapidAI'
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token:  ${{ secrets.GITEE_TOKEN }}
+          force_update: true
+          account_type: org
+          debug: true
+          static_list: ${{ steps.repo.outputs.repoList_FORK }}  # 仅同步非private的仓库，包括fork和自建的，文档可参考https://github.com/yi-Xu-0100/repo-list-generator
+          black_list: ".github,rapidai.github.io,RapidOCR,YOLO2COCO"  # RapidOCR和YOLO自有同步
