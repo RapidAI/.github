@@ -11,7 +11,7 @@
 
 ### 🎉🎉🎉知识星球[RapidAI私享群](https://t.zsxq.com/0duLBZczw)
 <div align="center">
-    <img src="./assets/KnowledgePlanet.jpg" width="20%" height="20%">
+    <img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/KnowledgePlanet.jpg" width="25%" height="25%">
 </div>
 
 - 在这里，你能得到什么？
