@@ -6,12 +6,12 @@
 
 ### WeChat Account（微信公众号）
 <div align="center">
-    <img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/RapidAI_poster_compose.png" width="40%" height="40%">
+    <img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/RapidAI_poster_compose.png" width="50%" height="50%">
 </div>
 
 ### 🎉🎉🎉知识星球[RapidAI私享群](https://t.zsxq.com/0duLBZczw)
 <div align="center">
-    <img src="./assets/KnowledgePlanet.jpg" width="50%" height="50%">
+    <img src="./assets/KnowledgePlanet.jpg" width="20%" height="20%">
 </div>
 
 - 在这里，你能得到什么？
