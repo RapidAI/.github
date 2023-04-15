@@ -43,4 +43,4 @@ jobs:
           account_type: org
           debug: true
           static_list: ${{ steps.repo.outputs.repoList_FORK }}  # 仅同步非private的仓库，包括fork和自建的，文档可参考https://github.com/yi-Xu-0100/repo-list-generator
-          black_list: ".github,rapidai.github.io,RapidOCR,YOLO2COCO"  # RapidOCR和YOLO自有同步
+          black_list: ".github,rapidai.github.io,RapidOCR,YOLO2COCO,llama-dl"  # RapidOCR和YOLO自有同步
