@@ -35,9 +35,9 @@
 - 提供国产操作系统（**海光、中科方德、麒麟**等等）OCR Docker部署服务。
 - 有意者 → ✉ liekkaskono@163.com。
 
-### 给作者加油
+### 赞助
 #### 支付宝或微信打赏 (Alipay reward or WeChat reward)
-通过支付宝或者微信给作者打赏，请写好备注。 Give the author a reward through Alipay or WeChat.
+通过支付宝或者微信给作者打赏，请写好备注。 (Give the author a reward through Alipay or WeChat.)
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/RapidAI/.github/ce6c21bf30935ad441376a29886c63d62392b354/assets/Sponsor.png" width="40%" height="40%">
