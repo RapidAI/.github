@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths:
-      - '.github/workflows/SyncToGitee.yml'
+      - '*'
   schedule:
     - cron: '0 14 * * *'  # 每天22点运行 14 + 8
 
