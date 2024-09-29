@@ -1,9 +1,9 @@
 ### 📣 注意了！
 
-以下仅为RapidAI组织部分仓库，如有帮助，欢迎Follow，持续关注。也可以微信扫描下方二维码，关注我们官方微信公众号：
+以下仅为RapidAI组织部分仓库，如有帮助，欢迎Follow，持续关注。也可以微信扫描下方二维码，关注我们官方微信公众号**RapidAI**：
 
 <div align="left">
-  <img src="https://github.com/RapidAI/.github/blob/main/assets/RapidAI_poster.png" width="30%"/>
+  <img src="https://github.com/RapidAI/.github/blob/main/assets/RapidAI_poster.png" width="40%"/>
 </div>
 
 
