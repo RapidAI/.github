@@ -24,15 +24,15 @@
 
 ### 📄 智能文档
 
-|Project|Description|
-|:---|:---|
-|[RapidStructure](https://github.com/RapidAI/RapidStructure)|文档结构化仓库，包括文档方向分类、版面分析和表格识别|
-|[RapidLaTexOCR](https://github.com/RapidAI/RapidLaTeXOCR)|公式识别:Formula recognition based on LaTeX-OCR and ONNXRuntime.|
-|[RapidTable](https://github.com/RapidAI/RapidTable)|源自PP-Structure的表格识别算法，模型转换为ONNX，推理引擎采用ONNXRuntime，部署简单，无内存泄露问题。|
-|[TableStructureRec](https://github.com/RapidAI/TableStructureRec)|整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX|
-|[RapidLayout](https://github.com/RapidAI/RapidLayout)|Analysis of Chinese and English layouts 中英文版面分析|
-|[RapidOCRPDF](https://github.com/RapidAI/RapidOCRPDF)|PDF提取: Based on RapidOCR, extract the PDF content.|
-|[ExtractOfficeContent](https://github.com/SWHL/ExtractOfficeContent)|Office内容提取|
+|Project|Stars|Description|
+|:---|:---|:---|
+|[RapidStructure](https://github.com/RapidAI/RapidStructure)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidStructure?style=flat-square)|文档结构化仓库，包括文档方向分类、版面分析和表格识别|
+|[RapidLaTexOCR](https://github.com/RapidAI/RapidLaTeXOCR)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidLaTexOCR?style=flat-square)|公式识别:Formula recognition based on LaTeX-OCR and ONNXRuntime.|
+|[RapidTable](https://github.com/RapidAI/RapidTable)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidTable?style=flat-square)|源自PP-Structure的表格识别算法，模型转换为ONNX，推理引擎采用ONNXRuntime，部署简单，无内存泄露问题。|
+|[TableStructureRec](https://github.com/RapidAI/TableStructureRec)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/TableStructureRec?style=flat-square)|整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX|
+|[RapidLayout](https://github.com/RapidAI/RapidLayout)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidLayout?style=flat-square)|Analysis of Chinese and English layouts 中英文版面分析|
+|[RapidOCRPDF](https://github.com/RapidAI/RapidOCRPDF)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidOCRPDF?style=flat-square)|PDF提取: Based on RapidOCR, extract the PDF content.|
+|[ExtractOfficeContent](https://github.com/SWHL/ExtractOfficeContent)|![GitHub Repo stars](https://img.shields.io/github/stars/SWHL/ExtractOfficeContent?style=flat-square)|Office内容提取|
 
 ### 🎶 语音相关
 
@@ -43,10 +43,10 @@
 
 ### 🔄 转换工具
 
-|Project|Description|
-|:---|:---|
-|[PaddleOCRModelConvert](https://github.com/RapidAI/PaddleOCRModelConvert)|PaddleOCR模型转换工具|
-|[LabelConvert](https://github.com/RapidAI/LabelConvert)|目标检测数据集格式转换|
+|Project|Stars|Description|
+|:---|:---|:---|
+|[PaddleOCRModelConvert](https://github.com/RapidAI/PaddleOCRModelConvert)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/PaddleOCRModelConvert?style=flat-square)|PaddleOCR模型转换工具|
+|[LabelConvert](https://github.com/RapidAI/LabelConvert)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/LabelConvert?style=flat-square)|目标检测数据集格式转换|
 
 ### 🏷 评测工具
 
