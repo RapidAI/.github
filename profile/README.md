@@ -34,6 +34,13 @@
 |[RapidOCRPDF](https://github.com/RapidAI/RapidOCRPDF)|PDF提取: Based on RapidOCR, extract the PDF content.|
 |[ExtractOfficeContent](https://github.com/SWHL/ExtractOfficeContent)|Office内容提取|
 
+### 🎶 语音相关
+
+|Project|Stars|Description|
+|:---|:---|:---|
+|[RapidASR](https://github.com/RapidAI/RapidASR)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidASR?style=flat-square)|商用级开源语音自动识别程序库，开箱即用，全平台支持，中英文混合识别。A Cross-platform implementation of ASR inference. It's based on ONNXRuntime and FunASR. We provide a set of easier APIs to call ASR models.|
+|[RapidTTS](https://github.com/RapidAI/RapidTTS)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidTTS?style=flat-square)|A cross platform implementation of Text-to-Speech based on ONNXRuntime.|
+
 ### 🔄 转换工具
 
 |Project|Description|
