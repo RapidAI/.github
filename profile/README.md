@@ -1,8 +1,17 @@
+### 📣 注意了！
+
+以下仅为RapidAI组织部分仓库，如有帮助，欢迎Follow，持续关注。也可以微信扫描下方二维码，关注我们官方微信公众号：
+
+<div align="left">
+  <img src="https://github.com/RapidAI/.github/blob/main/assets/RapidAI_poster.png" width="30%"/>
+</div>
+
+
 ### ⚙ OCR推理部署
 
 |Program Language|Project|
 |:---:|:---|
-|Python|[RapidOCR](https://github.com/RapidAI/RapidOCR)|
+|Python|[🔥RapidOCR](https://github.com/RapidAI/RapidOCR)|
 |C++|[RapidOcrOnnx](https://github.com/RapidAI/RapidOcrOnnx)|
 |C++|[RapidOcrNcnn](https://github.com/RapidAI/RapidOcrNcnn)|
 |Java|[RapidOcr—Java](https://github.com/MyMonsterCat/RapidOcr-Java)|
