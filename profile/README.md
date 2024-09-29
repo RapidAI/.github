@@ -57,16 +57,16 @@
 
 ### 🔢 测评集
 
-|Project|⭐️Stars|Description|
-|:---|:---|:---|
+|Project|Description|
+|:---|:---|
 |[text_det_test_dataset](https://huggingface.co/datasets/SWHL/text_det_test_dataset)|文本测试集|
 |[text_rec_test_dataset](https://huggingface.co/datasets/SWHL/text_rec_test_dataset)|文本识别测试集|
 |[table_rec_test_dataset](https://huggingface.co/datasets/SWHL/table_rec_test_dataset)|表格识别测试集|
 
 ### 📱 场景应用
 
-|Project|Description|
-|:---|:---|
+|Project|⭐️Stars|Description|
+|:---|:---|:---|
 |[RapidVideOCR](https://github.com/SWHL/RapidVideOCR)|![GitHub Repo stars](https://img.shields.io/github/stars/SWHL/RapidVideOCR?style=flat-square)|视频硬字幕提取工具|
 
 
