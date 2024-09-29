@@ -18,11 +18,11 @@
 |Project|Description|
 |:---|:---|
 |[RapidStructure](https://github.com/RapidAI/RapidStructure)|文档结构化仓库，包括文档方向分类、版面分析和表格识别|
-|[RapidLaTexOCR](https://github.com/RapidAI/RapidLaTeXOCR)|公式识别|
+|[RapidLaTexOCR](https://github.com/RapidAI/RapidLaTeXOCR)|公式识别:Formula recognition based on LaTeX-OCR and ONNXRuntime.|
 |[RapidTable](https://github.com/RapidAI/RapidTable)|源自PP-Structure的表格识别算法，模型转换为ONNX，推理引擎采用ONNXRuntime，部署简单，无内存泄露问题。|
 |[TableStructureRec](https://github.com/RapidAI/TableStructureRec)|整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX|
-|[RapidLayout](https://github.com/RapidAI/RapidLayout)|版面分析|
-|[RapidOCRPDF](https://github.com/RapidAI/RapidOCRPDF)|PDF提取|
+|[RapidLayout](https://github.com/RapidAI/RapidLayout)|Analysis of Chinese and English layouts 中英文版面分析|
+|[RapidOCRPDF](https://github.com/RapidAI/RapidOCRPDF)|PDF提取: Based on RapidOCR, extract the PDF content.|
 |[ExtractOfficeContent](https://github.com/SWHL/ExtractOfficeContent)|Office内容提取|
 
 ### 🔄 转换工具
