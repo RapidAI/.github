@@ -54,6 +54,10 @@
 |[RapidTTS](https://github.com/RapidAI/RapidTTS)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidTTS?style=flat-square)|A cross platform implementation of Text-to-Speech based on ONNXRuntime.|
 |[RapidVoice](https://github.com/RapidAI/RapidVoice)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidVoice?style=flat-square)|The engineering implementation of SenseVoice (from Alibaba)|
 |[RapidPunc](https://github.com/RapidAI/RapidPunc)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidPunc?style=flat-square)|A library for adding punctuation into a text from ASR.|
+|[paraformer_simple](https://github.com/RapidAI/paraformer_simple)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/paraformer_simple?style=flat-square)|paraformer 语音识别模型的简化推理代码|
+|[RapidAudioKit](https://github.com/RapidAI/RapidAudioKit)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidAudioKit?style=flat-square)|It's for the repository of audio resampling tools|
+|[RapidVAD](https://github.com/RapidAI/RapidVAD)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidVAD?style=flat-square)|A library for splitting audio for ASR.|
+|[RapidTP-Aligns](https://github.com/RapidAI/RapidTP-Aligns)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidTP-Aligns?style=flat-square)|语音的时间戳预测|
 
 ### 👷‍♂️🛠️ Builder
 
