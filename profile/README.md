@@ -80,6 +80,12 @@
 |[TextDetMetric](https://github.com/SWHL/TextDetMetric)|![GitHub Repo stars](https://img.shields.io/github/stars/SWHL/TextDetMetric?style=flat-square)|计算文本检测算法评测指标|
 |[TableRecognitionMetric](https://github.com/SWHL/TableRecognitionMetric)|![GitHub Repo stars](https://img.shields.io/github/stars/SWHL/TableRecognitionMetric?style=flat-square)|计算表格识别算法评测指标|
 
+### 📱 场景应用
+
+|Project|⭐️Stars|Description|
+|:---|:---|:---|
+|[RapidVideOCR](https://github.com/SWHL/RapidVideOCR)|![GitHub Repo stars](https://img.shields.io/github/stars/SWHL/RapidVideOCR?style=flat-square)|视频硬字幕提取工具|
+
 ### 🔢 测评集
 
 |Project|Description|
@@ -87,12 +93,5 @@
 |[text_det_test_dataset](https://huggingface.co/datasets/SWHL/text_det_test_dataset)|文本测试集|
 |[text_rec_test_dataset](https://huggingface.co/datasets/SWHL/text_rec_test_dataset)|文本识别测试集|
 |[table_rec_test_dataset](https://huggingface.co/datasets/SWHL/table_rec_test_dataset)|表格识别测试集|
-
-### 📱 场景应用
-
-|Project|⭐️Stars|Description|
-|:---|:---|:---|
-|[RapidVideOCR](https://github.com/SWHL/RapidVideOCR)|![GitHub Repo stars](https://img.shields.io/github/stars/SWHL/RapidVideOCR?style=flat-square)|视频硬字幕提取工具|
-
 
 <a href="https://github.com/orgs/RapidAI/repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
