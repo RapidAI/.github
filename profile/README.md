@@ -6,6 +6,17 @@
   <img src="https://github.com/RapidAI/.github/blob/main/assets/RapidAI_poster.png" width="40%"/>
 </div>
 
+#### 🤖 LLM
+
+|Project|⭐️Stars|Description|
+|:---|:---|:---|
+|[LLM-DOC](https://github.com/RapidAI/LLM-DOC)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/LLM-DOC?style=flat-square)|大模型研究院资料馆|
+
+#### 🔍💬 RAG相关
+
+|Project|⭐️Stars|Description|
+|:---|:---|:---|
+|[Knowledge-QA-LLM](https://github.com/RapidAI/Knowledge-QA-LLM)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/Knowledge-QA-LLM?style=flat-square)|QA based on local knowledge and LLM.|
 
 ### ⚙ OCR推理部署
 
@@ -40,6 +51,15 @@
 |:---|:---|:---|
 |[RapidASR](https://github.com/RapidAI/RapidASR)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidASR?style=flat-square)|商用级开源语音自动识别程序库，开箱即用，全平台支持，中英文混合识别。A Cross-platform implementation of ASR inference. It's based on ONNXRuntime and FunASR. We provide a set of easier APIs to call ASR models.|
 |[RapidTTS](https://github.com/RapidAI/RapidTTS)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidTTS?style=flat-square)|A cross platform implementation of Text-to-Speech based on ONNXRuntime.|
+|[RapidVoice](https://github.com/RapidAI/RapidVoice)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidVoice?style=flat-square)|The engineering implementation of SenseVoice (from Alibaba)|
+|[RapidPunc](https://github.com/RapidAI/RapidPunc)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidPunc?style=flat-square)|A library for adding punctuation into a text from ASR.|
+
+### 👷‍♂️🛠️ Builder
+
+|Project|⭐️Stars|Description|
+|:---|:---|:---|
+|[OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/OnnxruntimeBuilder?style=flat-square)|Onnxruntime Builder|
+|[OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/OpenCVBuilder?style=flat-square)|OpenCV Custom Builder|
 
 ### 🔄 转换工具
 
