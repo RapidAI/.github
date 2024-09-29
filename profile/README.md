@@ -6,13 +6,14 @@
   <img src="https://github.com/RapidAI/.github/blob/main/assets/RapidAI_poster.png" width="40%"/>
 </div>
 
-#### 🤖 LLM
+### 🤖 LLM
 
 |Project|⭐️Stars|Description|
 |:---|:---|:---|
 |[LLM-DOC](https://github.com/RapidAI/LLM-DOC)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/LLM-DOC?style=flat-square)|大模型研究院资料馆|
+|[LLM-EXAM](https://github.com/RapidAI/LLM-EXAM)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/LLM-DOC?style=flat-square)|大模型中文测试题库-民间版本|
 
-#### 🔍💬 RAG相关
+### 🔍💬 RAG相关
 
 |Project|⭐️Stars|Description|
 |:---|:---|:---|
