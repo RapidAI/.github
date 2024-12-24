@@ -2,7 +2,7 @@
 
 以下仅为RapidAI组织部分仓库，如有帮助，欢迎Follow，持续关注。也可以微信扫描下方二维码，关注我们官方微信公众号**RapidAI**：
 
-注意：我们不对代码库的任何非法使用承担任何责任. 请参阅您当地关于 DMCA (数字千年法案) 和其他相关法律法规. RapidAI注册于美国/欧洲，本仓库仅接受美国法律管辖，不适用于中国大陆或其它国家法律管辖。
+注意：我们不对代码库的任何非法使用承担任何责任. 请参阅您当地关于 DMCA (数字千年法案) 和其他相关法律法规. RapidAI注册于美国/欧洲，仅接受美国法律管辖，不适用于中国大陆或其它国家法律管辖。
 
 <div align="left">
   <img src="https://github.com/RapidAI/.github/blob/main/assets/RapidAI_poster.png" width="40%"/>
