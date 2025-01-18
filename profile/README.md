@@ -21,7 +21,7 @@
 
 |🏗️Project|⭐️Stars|📝Description|
 |:---|:---|:---|
-|[Knowledge-QA-LLM](https://github.com/RapidAI/Knowledge-QA-LLM)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/Knowledge-QA-LLM?style=flat-square)|QA based on local knowledge and LLM.|
+|[RapidRAG](https://github.com/RapidAI/RapidRAG)|![GitHub Repo stars](https://img.shields.io/github/stars/RapidAi/RapidRAG?style=flat-square)|QA based on local knowledge and LLM.|
 
 ### ⚙ OCR推理部署
 
