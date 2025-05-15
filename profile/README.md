@@ -1,3 +1,11 @@
+### ⚠️ Notice!
+The following is only part of the repository organized by RapidAI. If you find it helpful, feel free to follow us and stay updated. You can also scan the QR code below with WeChat to follow our official WeChat account RapidAI:
+
+Notice: We do not take any responsibility for any illegal use of the code repositories. Please refer to the relevant local laws such as the DMCA (Digital Millennium Copyright Act) and others. RapidAI is registered in the United States/Europe (Estonia) and is subject only to the applicable laws of the United States or the EU, and is not subject to the jurisdiction of any country or region in Greater China or any other country.
+
+We accept no liability for any loss caused by the use of any code from this organization. Otherwise, please stop using it immediately!!!
+
+
 ### 📣 注意了！
 
 以下仅为RapidAI组织部分仓库，如有帮助，欢迎Follow，持续关注。也可以微信扫描下方二维码，关注我们官方微信公众号**RapidAI**：
