@@ -8,7 +8,6 @@ on:
   schedule:
     - cron: '0 14 * * *'  # 每天22点运行 14 + 8
 
-
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
