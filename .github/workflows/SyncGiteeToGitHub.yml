@@ -1,0 +1,29 @@
+name: SyncGiteeRapidOcrCppToGitHub
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时同步一次
+  workflow_dispatch:     # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync Gitee RapidOcrCpp to GitHub
+        uses: Yikun/hub-mirror-action@master
+        with:
+          # 源：Gitee 组织仓库
+          src: gitee/RapidAI/RapidOcrCpp
+          # 目标：GitHub 组织仓库
+          dst: github/RapidAI/RapidOcrCpp
+
+          # 你需要配置的两个密钥
+          dst_key: ${{ secrets.GITHUB_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # 固定配置
+          account_type: org
+          force_update: true
+          debug: true
