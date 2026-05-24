@@ -1,8 +1,7 @@
-name: SyncGiteeRapidOcrCppToGitHub
+name: Sync RapidOcrCpp
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
@@ -14,13 +13,10 @@ jobs:
       - name: Sync Gitee → GitHub
         uses: Yikun/hub-mirror-action@master
         with:
-          src: 'gitee/RapidAI'          # 只写 组织
-          dst: 'github/RapidAI'         # 只写 组织
-          static_list: 'RapidOcrCpp'    # 只同步这一个仓库
-
-          dst_key: ${{ secrets.GITHUB_PRIVATE_KEY }}
+          src: gitee/RapidAI
+          dst: github/RapidAI
+          static_list: RapidOcrCpp
+          # 只用 token，不用 SSH 密钥
           dst_token: ${{ secrets.GITHUB_TOKEN }}
-
           account_type: org
           force_update: true
-          debug: true
